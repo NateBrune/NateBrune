@@ -1,4 +1,5 @@
-I am Nate Brune, bio is wip.
+I am Nate Brune.
+Decentralize everything! Open source the future!
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateBrune&show_icons=true&theme=transparent)
 
